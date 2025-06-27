@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@iconify-json/ep": "^1.2.2",
+    "@iconify-json/mdi": "^1.2.3",
     "@types/node": "^20.16.5",
     "@unocss/reset": "^0.62.3",
     "@vitejs/plugin-vue": "^5.1.3",
@@ -50,8 +52,7 @@
     "vue": "^3.5.3",
     "vue-dark-switch": "^1.0.6",
     "vue-echarts": "^6.7.3",
-    "vue-router": "^4.4.3",
-    "vue-toastification": "2.0.0-rc.5"
+    "vue-router": "^4.4.3"
   },
   "overrides": {
     "sourcemap-codec": "npm:@jridgewell/sourcemap-codec@latest",
@@ -77,5 +78,10 @@
     "not ie <= 11",
     "Android >= 4.0",
     "iOS >= 8"
-  ]
+  ],
+  "dependencies": {
+    "@types/lodash": "^4.17.19",
+    "lodash": "^4.17.21",
+    "perfect-debounce": "^1.0.0"
+  }
 }
