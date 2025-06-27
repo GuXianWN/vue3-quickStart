@@ -1,4 +1,5 @@
 dist
+.idea
 .nitro
 .output
 env.d.ts
