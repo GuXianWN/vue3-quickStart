@@ -16,10 +16,8 @@
     "formulahendry.auto-rename-tag",
     "hollowtree.vue-snippets",
     "isudox.vscode-jetbrains-keybindings",
-    "lokalise.i18n-ally",
     "mgmcdermott.vscode-language-babel",
     "mhutchie.git-graph",
-    "mtxr.sqltools",
     "oderwat.indent-rainbow",
     "rvest.vs-code-prettier-eslint",
     "shd101wyy.markdown-preview-enhanced",
@@ -28,7 +26,6 @@
     "tal7aouy.rainbow-bracket",
     "usernamehw.errorlens",
     "vitest.explorer",
-    "vue.volar",
     "xabikos.javascriptsnippets",
     "yoavbls.pretty-ts-errors",
   ]
