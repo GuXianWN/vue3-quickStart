@@ -7,7 +7,11 @@ import 'virtual:unocss-devtools'
 import './styles/main.css'
 
 import App from './App.vue'
+import extensionsPlugin from './plugins/extensions'
 
 const app = createApp(App)
+
+// 安装原生对象扩展
+app.use(extensionsPlugin)
 
 app.mount('#app')
