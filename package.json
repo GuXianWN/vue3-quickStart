@@ -23,7 +23,7 @@
     "consola": "^3.2.3",
     "cross-env": "^7.0.3",
     "defu": "^6.1.4",
-    "echarts": "^5.5.1",
+    "echarts": "^5.6.0",
     "kolorist": "^1.8.0",
     "lightningcss": "^1.26.0",
     "local-pkg": "^0.5.0",
@@ -81,6 +81,7 @@
   ],
   "dependencies": {
     "@types/lodash": "^4.17.19",
+    "dayjs": "^1.11.13",
     "lodash": "^4.17.21",
     "perfect-debounce": "^1.0.0"
   }
