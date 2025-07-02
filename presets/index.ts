@@ -220,7 +220,7 @@ export default function() {
 	 * api 自动按需引入
 	 * https://github.com/antfu/unplugin-auto-import
 	 */
-	const dirs = ['src/stores/**', 'src/composables/**', 'src/api/**']
+	const dirs = ['src/stores/**', 'src/composables/**', 'src/api/**', 'src/utils/**']
 	plugins.push(
 		AutoImport({
 			dirs,
