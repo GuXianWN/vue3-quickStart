@@ -12,6 +12,7 @@
     "@iconify-json/ep": "^1.2.2",
     "@iconify-json/mdi": "^1.2.3",
     "@types/node": "^20.16.5",
+    "@types/rbush": "^4.0.0",
     "@unocss/reset": "^0.62.3",
     "@vitejs/plugin-vue": "^5.1.3",
     "@vitejs/plugin-vue-jsx": "^3.1.0",
@@ -83,6 +84,7 @@
     "@types/lodash": "^4.17.19",
     "dayjs": "^1.11.13",
     "lodash": "^4.17.21",
-    "perfect-debounce": "^1.0.0"
+    "perfect-debounce": "^1.0.0",
+    "rbush": "^4.0.1"
   }
 }
